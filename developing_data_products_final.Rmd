@@ -1,0 +1,47 @@
+---
+title: 'Pitch: Iris Identifier 3000'
+author: "Adam Benner"
+date: "January 27, 2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Unknown Territory
+
+<h4>Are you lost and confused at the florist?</h4>
+
+![](1018429_scl.jpg)
+
+## Looming Disaster
+
+<h4>Do you try to surprise that special someone with beautiful flowers only to have it end in tears every time?</h4>
+
+![](image-HYSTERICS_1807_scl.jpg)
+
+## Where to Turn?
+
+You're in luck because now, there's the <strong style="color:purple"><em>Iris Identifier 3000</em></strong>!
+<br/>
+
+With the advanced machine classification technology of <strong style="color:purple"><em>Iris Identifier 3000</em></strong>, you'll never have to worry about getting that special someone the wrong type of irises again!
+
+Using <strong style="color:purple"><em>Iris Identifier 3000</em></strong> is as easy as:
+
+1. Pick an iris from your boquet
+2. Measure (in cm) its petal and sepal length and width
+3. Enter those values via the handy slider inputs
+4. Use the handy classification plot to ensure you have the right flowers to bring joy to your intended flower recipient!
+
+You can even select a desired species to be doubly sure you've selected the right flowers.
+
+
+## Try It Today!
+
+<h3><a href=https://rennebja.shinyapps.io/iris_identifier_3000/>Iris Identifier 3000</a></h3>
+
+![](woman_with_irises_scl.jpg)
+
+
